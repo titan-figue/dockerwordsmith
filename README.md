@@ -2,4 +2,4 @@
 
 # [French](README.fr.md)
 
-This is an example for dockercontainers since wordsmith jpetazzo.
+This is an example for dockercontainers using the wordsmith jpetazzo projet.
